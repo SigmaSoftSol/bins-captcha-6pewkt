@@ -10,7 +10,7 @@ export class AppComponent  {
   captchaStatus:any = '';
   
   captchaConfig:any = {
-    type:2, 
+    type:3, 
     length:6, 
     cssClass:'custom',
     back: {
